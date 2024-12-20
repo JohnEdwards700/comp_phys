@@ -1,0 +1,8 @@
+Loc	Lat	Lon	Built
+Skellig Michael IE	51.7707	-10.5405	99
+St. Michael's Mount UK	50.1172	-5.4778	800
+Mount Saint Michel FR	48.636	-1.5111	710
+Sacra di San Michele IT	45.0964	7.3422	966
+Monte Sant' Angelo sul Gargano IT	41.7046	15.9677	490
+Monastery of the Archangel Michael GR	36.6098	27.8128	1110
+Carmelite Monastery of Stella Maris IL	32.8272	34.9701	1238
